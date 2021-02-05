@@ -1,9 +1,5 @@
 #include <linux/kernel.h>
-asmlinkage long sys_hello_world(void)
-{
-printk("hello\n");
-return 0;
+asmlinkage long sys_hello_world(void){
+  printk("hello\n");
+  return 0;
 }
-
-
-
