@@ -1,3 +1,0 @@
-process 2300 is added into wait queue project2_queue_3 the 1 th time at time 1610875441 
-process 2300 is added into wait queue project2_queue_1 the 1 th time at time 1610875454 
-process 2300 is added into wait queue project2_queue_2 the 1 th time at time 1610875456 
